@@ -57,3 +57,32 @@ ul {
     -webkit-transform: scale(1.5); /* Safari 3-8 */
     transform: scale(1.5); 
   }
+
+h1 {
+  border: 5px dotted blue;
+}
+
+h2 {
+  border: 4px dotted DeepPink;
+}
+
+div {
+  border: double;
+}
+
+
+
+h4 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+img {
+  -webkit-box-reflect: below;
+}
+
+.center {
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+}
