@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: pink;
+    background-color: Magenta;
     height: auto;
     margin: 0;  
 }
@@ -19,7 +19,7 @@ table{
 }
 
 h4{
-   font-family: verdana;
+   font-family: arial;
    font-size: 14px;
    color: white;
 }
@@ -81,8 +81,3 @@ img {
   -webkit-box-reflect: below;
 }
 
-.center {
-  padding: 70px 0;
-  border: 3px solid green;
-  text-align: center;
-}
